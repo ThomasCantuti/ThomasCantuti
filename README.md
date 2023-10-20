@@ -22,5 +22,4 @@
 
 
 ### Statistiche GitHub
-![Uploading api.svg…]
 ![api](https://github.com/ThomasCantuti/ThomasCantuti/assets/96134266/250fad46-0440-4b84-bc5b-b5155db9bed2)

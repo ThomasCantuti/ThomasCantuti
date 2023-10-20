@@ -23,5 +23,5 @@
 LinkedIn: www.linkedin.com/in/thomas-cantuti-6abb84250  
 E-mail: thomas.cantuti@gmail.com
 
-### Statistiche GitHub
-(https://github.com/ThomasCantuti/ThomasCantuti/assets/96134266/ba9d1018-091b-46bf-8157-f1bf1431125f)
+//### Statistiche GitHub
+

@@ -15,7 +15,7 @@
 🔍 Passions: AI, Metaverse, AR/VR, Design, Game and App development  
 
 ### Projects
-🌐 Waste sorting: tell to Nao what you want to throw in the garbage and the Raspberry open the correct cover (wireless connection Nao-Raspberry with socket in python)  
+🌐 Waste sorting: tell to Nao what you want to throw in the garbage and the Raspberry open the correct cover  (wireless connection Nao-Raspberry with socket in python)  
 🎲 Data facts: write in input random day/month and you get an hystory fact happend on this day/month of a random year  
 
 ### Contacts

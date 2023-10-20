@@ -20,8 +20,9 @@
 🎲 Data facts: write in input random day/month and you get an hystory fact happend on this day/month of a random year  
 
 ### Contacts
-LinkedIn: www.linkedin.com/in/thomas-cantuti-6abb84250
+LinkedIn: www.linkedin.com/in/thomas-cantuti-6abb84250  
 E-mail: thomas.cantuti@gmail.com
 
-<!--### Statistiche GitHub--!>
+### Statistiche GitHub
 
+![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616c657373696f63656c656e74616e6f2673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d7265616374](https://github.com/ThomasCantuti/ThomasCantuti/assets/96134266/ba9d1018-091b-46bf-8157-f1bf1431125f)

@@ -20,7 +20,8 @@
 🎲 Data facts: write in input random day/month and you get an hystory fact happend on this day/month of a random year  
 
 ### Contacts
-https://github.com/badges/shields/raw/master/package.json
+LinkedIn: www.linkedin.com/in/thomas-cantuti-6abb84250
+E-mail: thomas.cantuti@gmail.com
 
-### Statistiche GitHub
+<!### Statistiche GitHub!>
 

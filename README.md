@@ -1,24 +1,24 @@
-### **Thomas Cantuti**
+<h1 align="center">Hi 👋, I'm Thomas Cantuti</h1>
+<h3 align="center">Computer science university student from Italy</h3>
 
-<!--
-**ThomasCantuti/ThomasCantuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomascantuti&label=Profile%20views&color=0e75b6&style=flat" alt="thomascantuti" /> </p>
 
-### Presentation
-👨‍💻 Software developer with passion of AI  
-🎓 I'm attending computer science Bachelor's from Ferrara  
-🌍 I currently live in Mirandola (MO) in Italy  
+- 💬 Ask me about **NAO programming**
 
-### Skill
-🖥️ Languages: C, Java, Python, Kivy  
-📚 Experience: Raspberry Pi, Nao, programming competitions, app development, APIs, Blender, Unity  
-🔍 Passions: AI, Metaverse, AR/VR, Design, Game and App development  
+- 📫 How to reach me **thomas.cantuti@gmail.com**
 
-### Projects
-🌐 Waste sorting: tell to Nao what you want to throw in the garbage and the Raspberry open the correct cover  
-                  (wireless connection Nao-Raspberry with socket in python)  
-🎲 Data facts: write in input random day/month and you get an hystory fact happend on this day/month of a random year  
+- ⚡ Fun fact **I am curious**
 
-### Contacts
-📊 LinkedIn: www.linkedin.com/in/thomas-cantuti-6abb84250  
-📧 E-mail: thomas.cantuti@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thomas-cantuti-6abb84250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ thomas-cantuti-6abb84250" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomascantuti&show_icons=true&locale=en&layout=compact" alt="thomascantuti" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomascantuti&show_icons=true&locale=en" alt="thomascantuti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomascantuti&" alt="thomascantuti" /></p>

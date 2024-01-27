@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomascantuti&label=Profile%20views&color=0e75b6&style=flat" alt="thomascantuti" /> </p>
 
-- 💬 Ask me about **NAO programming**
-
 - 📫 How to reach me **thomas.cantuti@gmail.com**
 
 - ⚡ Fun fact **I am curious**

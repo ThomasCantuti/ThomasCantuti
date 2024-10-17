@@ -9,7 +9,7 @@ I'm always looking for new challenges and opportunities to learn and grow.
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,r,azure,raspberrypi)](https://skillicons.dev)
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-f4ce34?style=for-the-badge&logo=codecrafters&logoColor=black)](site) -->
-[![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=black)](https://copper-rosetta-60.tiiny.site)
+[![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=black)](https://beige-cristionna-28.tiiny.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-cantuti-6abb84250)
 [![Gmail](https://img.shields.io/badge/Gmail-F51115?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.cantuti@gmail.com)
 
